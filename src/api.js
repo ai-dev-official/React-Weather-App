@@ -2,8 +2,8 @@
 export const geoApiOptions = {
         method: 'GET',
         headers: {
-            'X-RapidAPI-Key': '5670401c68msh467aa30dbbb72aep156bfcjsn7f7e8014b596',
-            'X-RapidAPI-Host': 'wft-geo-db.p.rapidapi.com'
+            'X-RapidAPI-Key': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+            'X-RapidAPI-Host': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
         }
     };
 
@@ -11,6 +11,6 @@ export const geoApiOptions = {
 
     export const WEATHER_API_URL="https://api.openweathermap.org/data/2.5";
 
-    export const WEATHER_API_KEY="3e300a36990aa0092c603deef4ae90bf"
+    export const WEATHER_API_KEY="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
     
